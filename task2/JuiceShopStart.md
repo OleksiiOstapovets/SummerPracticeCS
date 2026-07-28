@@ -88,3 +88,8 @@ $SELECT * FROM Users WHERE email = '' OR 1=1--' AND password = '...'$
 | **CyberChef** | Декодування Base64, MD5, SHA та інших форматів. |
 
 ---
+
+додаткове завдання:
+![](pic13.png)
+Вручну змінити зачення span mcd-slider__value-indicator-container на "0х"
+![](pic14.png)
